@@ -1,0 +1,1 @@
+The Calculator project is a basic application that performs essential arithmetic operations such as addition, subtraction, multiplication, and division. Designed with a user-friendly interface, the project is built using java. To run it, simply clone the repository, navigate to the project directory, and execute the application. Contributions are welcome through pull requests.
